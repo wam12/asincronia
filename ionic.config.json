@@ -1,5 +1,8 @@
 {
   "name": "asincronia",
   "app_id": "",
-  "type": "ionic1"
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*"
+  ]
 }
